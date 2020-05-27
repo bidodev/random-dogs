@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bidodev/random-dogs/static/css/main.cb9fe1e6.chunk.css",
-    "main.js": "/bidodev/random-dogs/static/js/main.2ec2d5df.chunk.js",
-    "main.js.map": "/bidodev/random-dogs/static/js/main.2ec2d5df.chunk.js.map",
-    "runtime-main.js": "/bidodev/random-dogs/static/js/runtime-main.b13de974.js",
-    "runtime-main.js.map": "/bidodev/random-dogs/static/js/runtime-main.b13de974.js.map",
-    "static/js/2.b45811ce.chunk.js": "/bidodev/random-dogs/static/js/2.b45811ce.chunk.js",
-    "static/js/2.b45811ce.chunk.js.map": "/bidodev/random-dogs/static/js/2.b45811ce.chunk.js.map",
-    "index.html": "/bidodev/random-dogs/index.html",
-    "precache-manifest.9fc681b026777b27db43b8978d1638e6.js": "/bidodev/random-dogs/precache-manifest.9fc681b026777b27db43b8978d1638e6.js",
-    "service-worker.js": "/bidodev/random-dogs/service-worker.js",
-    "static/css/main.cb9fe1e6.chunk.css.map": "/bidodev/random-dogs/static/css/main.cb9fe1e6.chunk.css.map",
-    "static/js/2.b45811ce.chunk.js.LICENSE.txt": "/bidodev/random-dogs/static/js/2.b45811ce.chunk.js.LICENSE.txt"
+    "main.css": "/random-dogs/static/css/main.cb9fe1e6.chunk.css",
+    "main.js": "/random-dogs/static/js/main.52071bc1.chunk.js",
+    "main.js.map": "/random-dogs/static/js/main.52071bc1.chunk.js.map",
+    "runtime-main.js": "/random-dogs/static/js/runtime-main.f1123f1d.js",
+    "runtime-main.js.map": "/random-dogs/static/js/runtime-main.f1123f1d.js.map",
+    "static/js/2.b45811ce.chunk.js": "/random-dogs/static/js/2.b45811ce.chunk.js",
+    "static/js/2.b45811ce.chunk.js.map": "/random-dogs/static/js/2.b45811ce.chunk.js.map",
+    "index.html": "/random-dogs/index.html",
+    "precache-manifest.977ccb0032a28ca4d1f1dbdbc89f0be6.js": "/random-dogs/precache-manifest.977ccb0032a28ca4d1f1dbdbc89f0be6.js",
+    "service-worker.js": "/random-dogs/service-worker.js",
+    "static/css/main.cb9fe1e6.chunk.css.map": "/random-dogs/static/css/main.cb9fe1e6.chunk.css.map",
+    "static/js/2.b45811ce.chunk.js.LICENSE.txt": "/random-dogs/static/js/2.b45811ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b13de974.js",
+    "static/js/runtime-main.f1123f1d.js",
     "static/js/2.b45811ce.chunk.js",
     "static/css/main.cb9fe1e6.chunk.css",
-    "static/js/main.2ec2d5df.chunk.js"
+    "static/js/main.52071bc1.chunk.js"
   ]
 }
